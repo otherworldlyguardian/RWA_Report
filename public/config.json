@@ -1,0 +1,15 @@
+{
+  "name": "RWA Form",
+  "supportEmail": "jreid@badgerfleet.com",
+  "version": "1.0",
+  "items": [
+    {
+      "url": "https://100.38.63.221:3001/index.html",
+      "path": "BadgerFleet Solutions/",
+      "menuName": {
+        "en": "RWA Form"
+      }
+    }
+  ],
+  "isSigned": false
+}
